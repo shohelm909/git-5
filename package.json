@@ -9,6 +9,9 @@
   "author": "\"shohel\"",
   "license": "ISC",
   "dependencies": {
-    "bootstrap": "^4.6.0"
+    "date-format": "^3.0.0"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.1"
   }
 }
